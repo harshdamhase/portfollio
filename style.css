@@ -170,3 +170,18 @@ body {
     height: 500px;
     width: 550px;
 }
+.btn-skill{
+    background-color: #00a6fb;
+}
+.html-btn{
+    height: 50px;
+   
+}
+.html-btn:hover{
+    border: 1px solid #555;
+    border-radius: 10px;
+    box-shadow: 0 14px 20px rgba(0, 0, 0, .25), 0 10px 10px rgba(0, 0, 0, .22);
+    margin: 40px 20px;
+    padding: 25px;
+   
+}
